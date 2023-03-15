@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project
-subtitle: Projects
+title: Projects
+subtitle: What we do
 ---
 
 ### Research Projects
