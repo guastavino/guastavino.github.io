@@ -20,10 +20,11 @@ author: Catherine Guastavino
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Projects: "projects"
   Team: "team"
-  Resources:
+  Join Us: "joinus"
+  #Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
