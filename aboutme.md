@@ -1,8 +1,9 @@
---
+---
 layout: page
 title: About 
 subtitle: All you ever wanted to know about MIL
 ---
+
 
 Welcome to the Multimodal Interaction Lab, run by Professor Catherine Guastavino and her many passionate students and postdocs at McGill University.
 We are affiliated with the [Centre for Interdisciplinary Research in Music Media and Technology](https://www.cirmmt.org/)  and McGill University's [School of Information Studies](https://www.mcgill.ca/sis/).
