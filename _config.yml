@@ -24,6 +24,7 @@ navbar-links:
   Projects: "projects"
   Team: "team"
   Join Us: "joinus"
+  Publications: "publications"
   #Resources:
   #    - Beautiful Jekyll: "https://beautifuljekyll.com"
   #    - Learn markdown: "https://www.markdowntutorial.com/"
