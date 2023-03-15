@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Team
-subtitle: Meet our team
+subtitle: Meet our lab members
 ---
 
 
-### Current lab members
+### Current members
 
 CG and her gang
 
-### Previous lab members
+### Former members
 Old gang
 
 
